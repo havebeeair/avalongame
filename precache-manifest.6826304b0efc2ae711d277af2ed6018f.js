@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/avalongame/static/js/runtime~main.5dd05a74.js"
   },
   {
-    "revision": "bbd21a691a2ad0ad5a08",
-    "url": "/avalongame/static/js/main.bbd21a69.chunk.js"
+    "revision": "c2774d18bf1dbfe1eb93",
+    "url": "/avalongame/static/js/main.c2774d18.chunk.js"
   },
   {
     "revision": "324b6cf3b56bf43378ce",
     "url": "/avalongame/static/js/1.324b6cf3.chunk.js"
   },
   {
-    "revision": "bbd21a691a2ad0ad5a08",
+    "revision": "c2774d18bf1dbfe1eb93",
     "url": "/avalongame/static/css/main.457c378a.chunk.css"
   },
   {
-    "revision": "d2216c4f024024a6801348deaef7b25b",
+    "revision": "b01a16e528dd355430bd43bdd7d70071",
     "url": "/avalongame/index.html"
   }
 ];
